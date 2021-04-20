@@ -49,9 +49,16 @@
 			</div>
 		</div>
 
-
+	<audio src="./audio/tech-house.mp3"></audio>
         <!-- Custom javascript -->
-        <script src="js/script.js"></script>
+        <script src="js/script.js"></script>		
+	<script>
+		window.addEventListener("DOMContentLoaded", event => {
+		const audio = document.querySelector("audio");
+		audio.volume = 0.1;
+		audio.play();
+		});
+	</script>
 
     </body>
 
