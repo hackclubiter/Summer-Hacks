@@ -1,3 +1,5 @@
+<img src = ./img/header.png>
+
 # Summer Hacks 🌞
 **📅 7th - 9th May'21 | 📍 Online, GitHub**
 
