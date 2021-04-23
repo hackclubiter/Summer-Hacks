@@ -14,3 +14,11 @@ The theme of the hackathon moves around the summer season. Students have to make
 
 ## Problem Statement 📝
 *Make a cool portfolio website for yourself with summer themed.*
+
+
+
+
+
+------
+# Maintainers & Contibutors
+<img src="https://contributors-img.web.app/image?repo=SOACodeRoom/Summer-Hacks" />
