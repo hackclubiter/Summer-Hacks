@@ -450,6 +450,12 @@ body {
   }
   
   .masthead h2,
+  .sub-heading-small {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 1rem;
+  }
   .sub-heading {
     text-align: center;
     font-family: 'Roboto', sans-serif;
