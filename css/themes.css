@@ -1,0 +1,72 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html {
+  box-sizing: border-box;
+}
+body {
+  background-color: #151220;
+  line-height: 1.6;
+  font-size: 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+}
+
+#themes {
+  min-height: 100vh;
+  padding: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.wrapper {
+  padding: 0.8rem;
+  background-color: white;
+  display: inline-block;
+  border-radius: 15px;
+  margin: 1rem 1.5rem;
+}
+
+.theme__card {
+  width: 12rem;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.theme_header {
+  font-size: 1.3rem;
+  letter-spacing: 3px;
+  align-self: stretch;
+  height: 3rem;
+  margin: 0.2rem;
+  font-weight: bold;
+}
+
+.theme_color {
+  align-self: stretch;
+  padding: 0.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+}
+
+.color_name {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: 5px;
+  color: #000000;
+  display: none;
+}
+
+.theme_color:hover .color_name {
+  display: block;
+  background: rgba(226, 221, 221, 0.3);
+}
