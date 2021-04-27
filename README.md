@@ -21,4 +21,4 @@ The theme of the hackathon moves around the summer season. Students have to make
 
 ------
 # Maintainers & Contibutors
-<img src="https://contributors-img.web.app/image?repo=SOACodeRoom/Summer-Hacks" />
+[![Contributors Display](https://badges.pufler.dev/contributors/SOACodeRoom/Summer-Hacks?size=50&padding=5&bots=true)]()
