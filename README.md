@@ -14,11 +14,17 @@ The theme of the hackathon moves around the summer season. Students have to make
 
 ## Problem Statement 📝
 *Make a cool portfolio website for yourself with summer themed.*
+Know more about the theme [here](https://summerhacks.netlify.app/theme)
 
+## Team 👬
+You are allowed to make a team of maximum **two participants**. But if you want to work alone then you are most welcome! 
 
+## Who can attend? ⁉
+You are eligible to attend if you're atleast 18 and a student of Siksha O Anusandhan University.
 
+### Read more about the Rules and Regulations [here](https://summerhacks.netlify.app/faq) ✅
 
 
 ------
 # Maintainers & Contibutors
-<img src="https://contributors-img.web.app/image?repo=SOACodeRoom/Summer-Hacks" />
+[![Contributors Display](https://badges.pufler.dev/contributors/SOACodeRoom/Summer-Hacks?size=50&padding=5&bots=true)]()
