@@ -27,4 +27,4 @@ You are eligible to attend if you're atleast 18 and a student of Siksha O Anusan
 
 ------
 # Maintainers & Contibutors
-[![Contributors Display](https://badges.pufler.dev/contributors/SOACodeRoom/Summer-Hacks?size=50&padding=5&bots=true)]()
+<img src="https://badges.pufler.dev/contributors/SOACodeRoom/Summer-Hacks">
