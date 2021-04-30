@@ -528,6 +528,18 @@ body {
   }
   
   /* ---- Button css ---- */
+  .btn-primary-small {
+    background-color: rgb(107, 240, 54);
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 30px;
+    color: black;
+    margin: 0 8px;
+    font-family: "Roboto";
+    font-size: 1rem;
+    text-transform: none;
+    letter-spacing: 0px;
+  }
   .btn-primary {
     background-color: rgba(240, 176, 54);
     padding-top: 0.5rem;
