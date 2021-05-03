@@ -19,26 +19,29 @@
 
         	<!-- Custom CSS -->
         	<link href="css/style.css" rel="stylesheet">
+		<link rel="stylesheet" href="./css/nav.css">
 			
     </head>
-
-    <!-- 100% virtual right sticker -->
-    <a id="pure-virtual-sticker" style="display:block;max-width:100px;min-width:100px;position:fixed;right:10px;top: 10px;width:10%;z-index:10000" href="#" target="_blank"><img src="./img/pure-virtual-sticker.svg" alt="" style="width:100%"></a>
 
     <!-- Apply Now Sticker tba -->
 
     <body>
-		<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-			<div id="navbar-container" class="container">
-				<div id="navbar-top-menu">
-					<div class="d-flex align-items-center justify-content-between">
-						<a class="navbar-brand js-scroll-trigger" href="index.html">	
-							<div class="title-icon"></div>
-						</a>
-					</div>
-				</div>
-			</div>
-		</nav>
+<nav>
+      <div class="hamburger">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+      <ul class="nav-links">
+        <li><a href="apply.html" id="apply_button">APPLY</a></li>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="theme.html">THEMES</a></li>
+        <li><a href="events.html">EVENTS</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="faq.html">FAQs</a></li>
+	<li><a id="pure-virtual-sticker" style="display:block;max-width:100px;min-width:100px;position:fixed;left:10px;top: 10px;width:10%;z-index:10000" href="#" target="_blank"><img src="./img/pure-virtual-sticker.svg" alt="" style="width:100%"></a></li>
+      </ul>
+</nav>
         <div class="masthead">
 			<div class="container d-flex h-100 align-items-center">
 				<div class="mx-auto text-center no-select">
@@ -110,8 +113,9 @@
 
         <!-- Custom javascript -->
         <script src="js/script.js"></script>
-		<script src="./js/particles.js"></script>
+	<script src="./js/particles.js"></script>
         <script src="./js/app.js"></script>
+	<script src="./js/nav.js"></script>
 		<!-- <audio src="./audio/tech-house.mp3"></audio>
 		<script>
 			window.addEventListener("DOMContentLoaded", event => {
