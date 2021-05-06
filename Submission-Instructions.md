@@ -45,12 +45,23 @@ Your Project Documentation should contain:
 ```
 
 ---
+### Watch this video to learn more about the project template:
+<a href="https://youtu.be/eaBsNOhczRE"><img src="https://user-images.githubusercontent.com/39031660/117314046-09f73e80-aea4-11eb-83d9-855356886a1f.png"></a>
 
-### How to upload your files to your Repo?
+### Detailed description:
 
-Either you can use Git tool to push your files onto GitHub from the terminal, otherwise you can simply drag and drop all your files onto your Repository initialized with a README.md file.
+In order to go ahead with your project proceedings you need to follow some basic steps, which are listed below: 
+- Visit the official github site of SOA CODE ROOM [github.com/soacoderoom](https://github.com/soacoderoom)
+- Then switch and select the **[summerhacks-projectName](https://github.com/SOACodeRoom/summerhacks-projectName)** repository
+- <img src="https://user-images.githubusercontent.com/39031660/117314946-de288880-aea4-11eb-8d3b-27db4348d233.png" width=400>
+      Click on the “Use this template” option, and this will lead to the creation of a clone  in your account.
+- Proceed by naming your project in the mentioned format:  summerhacks-(your project name); 
+E.g. `summerhacks-myPortfolioName`
+- Add a small description about your project at the description check box. 
+At the end of addition, select the checkbox that mentions SELECT ALL BRANCHES. 
+- Click on the CREATE REPOSITORY FROM TEMPLATE, and your repository will be created.
+- Once done, you will get access to the different files of html, css, javascript,etc. You have to modify the inputs according to your requirement. But make sure to save the particular files under particular files. 
 
-![image](https://user-images.githubusercontent.com/53336715/116804149-64258780-aad1-11eb-8d76-af5c5b792be0.png)
 
 ```
 index.html -> you must have deployed your index.html
