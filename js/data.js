@@ -15,7 +15,6 @@ const projectData = [
       teamName: "PLAY_WITH_BITS",
       //give the username and repository name where you have posted your project
       username: "sambitraj",
-      username: "@swaty1681",
       reponame: "COLLEGE-WEB",
   },
 ];
