@@ -11,6 +11,11 @@ const projectData = [
       username: "soacoderoom",
       reponame: "Summer-Hacks",
   },
+  { 
+       teamName: "Alik Kumar Ghosh",
+       username: "Alik-Kumar-Ghosh ",
+       reponame: "SummerHacks_Portfolio",
+  },
 ];
 
 //------------------------WARNING---------------------------//
