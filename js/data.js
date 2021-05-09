@@ -62,7 +62,7 @@ const projectData = [
 
   { 
        teamName: "Alik Kumar Ghosh",
-       username: "Alik-Kumar-Ghosh ",
+       username: "Alik-Kumar-Ghosh",
        reponame: "SummerHacks_Portfolio",
   },
 
