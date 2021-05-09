@@ -1,4 +1,10 @@
 const projectData = [
+    {
+        teamName: "SOA Code Room",
+        //give the username and repository name where you have posted your project
+        username: "soacoderoom",
+        reponame: "Summer-Hacks",
+    },
    {
       teamName: "Swapnil Chand",
       //give the username and repository name where you have posted your project
@@ -12,22 +18,10 @@ const projectData = [
       reponame: "summerhacks-Urjaswi",
   },
   {
-      teamName: "SOA Code Room",
-      //give the username and repository name where you have posted your project
-      username: "saswatsamal",
-      reponame: "snake-game",
-  },
-  {
       teamName: "ARMAN ALI KHAN",
       //give the username and repository name where you have posted your project
       username: "Arman-ali-khan-786",
       reponame: "summerhacks-knowArman",
-  },
-  {
-      teamName: "SOA Code Room",
-      //give the username and repository name where you have posted your project
-      username: "soacoderoom",
-      reponame: "Summer-Hacks",
   },
 
   {
@@ -55,7 +49,7 @@ const projectData = [
   {
       teamName: "Team Shailesh_Vinit",
       //give the username and repository name where you have posted your project
-      username: "vinitvins", "Shailesh611"
+      username: "vinitvins",
       reponame: "summerhacks-myPortfolioMusk",
   },
 
@@ -125,7 +119,7 @@ const projectData = [
       teamName: "PLAY_WITH_BITS",
       //give the username and repository name where you have posted your project
       username: "sambitraj",
-      reponame: "COLLEGE-WEB",
+      reponame: "portfolio-website",
   },
   {
       teamName: "ExcessiveMedia",
@@ -136,7 +130,7 @@ const projectData = [
   },
      { 
        teamName: "OrangeDawn",
-       username: " Aditi-Trishna",
+       username: "Aditi-Trishna",
        reponame: "summerhacks-OrangeDawn",
   },
 
