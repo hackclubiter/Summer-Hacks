@@ -12,6 +12,13 @@ const projectData = [
       reponame: "Summer-Hacks",
   },
 
+   {
+      teamName: "Farid Ahmed",
+      //give the username and repository name where you have posted your project
+      username: "fareedahmed00",
+      reponame: "summerhacks-FaridAhmed",
+   },
+
   {
       teamName: "Amrit Nayak",
       //give the username and repository name where you have posted your project
