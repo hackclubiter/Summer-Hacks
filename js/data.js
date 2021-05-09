@@ -24,6 +24,12 @@ const projectData = [
       reponame: "Summer-Hacks",
   },
 
+  { 
+       teamName: "Alik Kumar Ghosh",
+       username: "Alik-Kumar-Ghosh ",
+       reponame: "SummerHacks_Portfolio",
+  },
+
   {
       teamName: "Poushali Chakraborty",
       //give the username and repository name where you have posted your project
@@ -84,6 +90,7 @@ const projectData = [
       //give the username and repository name where you have posted your project
       username: "sanskar85",
       reponame: "summerhacks-excessiveMedia",
+
 
   },
 ];
