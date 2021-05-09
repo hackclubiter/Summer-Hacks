@@ -28,10 +28,11 @@ friday.push(new scheduleEvent("(W)What is Hackathon?", "20:30", "main"));
 friday.push(new scheduleEvent("(M)Chill Time", "22:30", "main"));
 
 saturday.push(new scheduleEvent("(W)Twitter Bot", "11:00", "main"));
-saturday.push(new scheduleEvent("(M)Web Development Quiz", "16:00", "main"));
-saturday.push(new scheduleEvent("(W)Deploying the website", "22:30", "main"));
+saturday.push(new scheduleEvent("(M)Chill Session", "18:30", "main"));
+saturday.push(new scheduleEvent("(M)Scribble", "22:30", "main"));
 
-sunday.push(new scheduleEvent("(M)Scribble", "10:00", "main"));
+sunday.push(new scheduleEvent("(W)Deploying the website", "10:00", "main"));
+sunday.push(new scheduleEvent("(M)Web Development Quiz", "16:00", "main"));
 sunday.push(new scheduleEvent("Hacking Ends", "18:30", "main"));
 sunday.push(new scheduleEvent("Keynote and Results", "22:30", "main"));
 
