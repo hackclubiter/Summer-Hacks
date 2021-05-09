@@ -18,6 +18,12 @@ const projectData = [
       reponame: "snake-game",
   },
   {
+      teamName: "ARMAN ALI KHAN",
+      //give the username and repository name where you have posted your project
+      username: "Arman-ali-khan-786",
+      reponame: "summerhacks-knowArman",
+  },
+  {
       teamName: "SOA Code Room",
       //give the username and repository name where you have posted your project
       username: "soacoderoom",
@@ -128,6 +134,11 @@ const projectData = [
       reponame: "summerhacks-excessiveMedia",
 
   },
+     { 
+       teamName: "OrangeDawn",
+       username: " Aditi-Trishna",
+       reponame: "summerhacks-OrangeDawn",
+  },
 
     {
       teamName: "coding comrades",
@@ -135,6 +146,7 @@ const projectData = [
       username: "RohanHarichandan",
       reponame: "Summer-Hacks",
   },
+
    
    {
       teamName: "Sachin Pandey",
@@ -142,6 +154,14 @@ const projectData = [
       username: "skpandey885",
       reponame: "summerhacks-sachinPortfolio",
   },
+
+    {
+      teamName: "Sushant",
+      //give the username and repository name where you have posted your project
+      username: "Sushant258",
+      reponame: "summerhacks-myPortfolio",
+  },
+
 ];
 
 //------------------------WARNING---------------------------//
