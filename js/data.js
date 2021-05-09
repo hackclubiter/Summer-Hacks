@@ -1,4 +1,10 @@
 const projectData = [
+   {
+      teamName: "Swapnil Chand",
+      //give the username and repository name where you have posted your project
+      username: "SwapnilChand",
+      reponame: "summerhacks-SwapnilChand",
+  },
   {
       teamName: "SOA Code Room",
       //give the username and repository name where you have posted your project
