@@ -1,4 +1,16 @@
 const projectData = [
+   {
+      teamName: "Swapnil Chand",
+      //give the username and repository name where you have posted your project
+      username: "SwapnilChand",
+      reponame: "summerhacks-SwapnilChand",
+  },
+  {
+      teamName: "Urjaswi",
+      //give the username and repository name where you have posted your project
+      username: "Urjaswi-2655",
+      reponame: "summerhacks-Urjaswi",
+  },
   {
       teamName: "SOA Code Room",
       //give the username and repository name where you have posted your project
@@ -11,10 +23,75 @@ const projectData = [
       username: "soacoderoom",
       reponame: "Summer-Hacks",
   },
+
   { 
        teamName: "Alik Kumar Ghosh",
        username: "Alik-Kumar-Ghosh ",
        reponame: "SummerHacks_Portfolio",
+  },
+
+  {
+      teamName: "Poushali Chakraborty",
+      //give the username and repository name where you have posted your project
+      username: "poushali07",
+      reponame: "SummerHacks_Poushali",
+  },
+
+  {
+      teamName: "WeOne",
+      //give the username and repository name where you have posted your project
+      username: "Abhijeet-Anand-01",
+      reponame: "summerhacks-WeOne",
+  },
+
+  {
+      teamName: "Siddhant Sarthak",
+      //give the username and repository name where you have posted your project
+      username: "sid-mr-im",
+      reponame: "summerhacks-siddhantsarthak",
+  },
+
+    {
+      teamName: "ZCoders",
+      //give the username and repository name where you have posted your project
+      username: "Vishal409",
+      reponame: "SummerHacks-ZCoders",
+    },
+
+   {
+      teamName: "Farid Ahmed",
+      //give the username and repository name where you have posted your project
+      username: "fareedahmed00",
+      reponame: "summerhacks-FaridAhmed",
+   },
+
+  {
+      teamName: "Amrit Nayak",
+      //give the username and repository name where you have posted your project
+      username: "AmritNayak",
+      reponame: "summerhacks-myPortfolioSite",
+  },
+
+   {
+      teamName: "Nishant's site",
+      //give the username and repository name where you have posted your project
+      username: "Nishant50",
+      reponame: "summerhacks-myPortfolio",
+  },
+
+   {
+      teamName: "PLAY_WITH_BITS",
+      //give the username and repository name where you have posted your project
+      username: "sambitraj",
+      reponame: "COLLEGE-WEB",
+  },
+  {
+      teamName: "ExcessiveMedia",
+      //give the username and repository name where you have posted your project
+      username: "sanskar85",
+      reponame: "summerhacks-excessiveMedia",
+
+
   },
 ];
 
