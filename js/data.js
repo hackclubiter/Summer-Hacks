@@ -18,6 +18,12 @@ const projectData = [
       reponame: "snake-game",
   },
   {
+      teamName: "ARMAN ALI KHAN",
+      //give the username and repository name where you have posted your project
+      username: "Arman-ali-khan-786",
+      reponame: "summerhacks-knowArman",
+  },
+  {
       teamName: "SOA Code Room",
       //give the username and repository name where you have posted your project
       username: "soacoderoom",
