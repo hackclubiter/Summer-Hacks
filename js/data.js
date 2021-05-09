@@ -25,6 +25,13 @@ const projectData = [
   },
 
   {
+      teamName: "Nuubs4",
+      //give the username and repository name where you have posted your project
+      username: "Jyo561",
+      reponame: "summerhacks-Portfolio360",
+  },
+
+  {
       teamName: "Team Shailesh_Vinit",
       //give the username and repository name where you have posted your project
       username: "vinitvins", "Shailesh611"
