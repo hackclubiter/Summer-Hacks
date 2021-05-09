@@ -11,6 +11,12 @@ const projectData = [
       username: "soacoderoom",
       reponame: "Summer-Hacks",
   },
+  {
+      teamName: "Team Shailesh_Vinit",
+      //give the username and repository name where you have posted your project
+      username: "vinitvins", "Shailesh611"
+      reponame: "summerhacks-myPortfolioMusk",
+  },
 ];
 
 //------------------------WARNING---------------------------//
