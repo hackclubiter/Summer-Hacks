@@ -25,6 +25,13 @@ const projectData = [
   },
 
   {
+      teamName: "WeOne",
+      //give the username and repository name where you have posted your project
+      username: "Abhijeet-Anand-01",
+      reponame: "summerhacks-WeOne",
+  },
+
+  {
       teamName: "Siddhant Sarthak",
       //give the username and repository name where you have posted your project
       username: "sid-mr-im",
@@ -70,7 +77,6 @@ const projectData = [
       //give the username and repository name where you have posted your project
       username: "sanskar85",
       reponame: "summerhacks-excessiveMedia",
-
   },
 ];
 
