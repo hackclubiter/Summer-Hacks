@@ -11,11 +11,54 @@ const projectData = [
       username: "soacoderoom",
       reponame: "Summer-Hacks",
   },
+
   {
       teamName: "Siddhant Sarthak",
       //give the username and repository name where you have posted your project
       username: "sid-mr-im",
       reponame: "summerhacks-siddhantsarthak",
+  },
+
+    {
+      teamName: "ZCoders",
+      //give the username and repository name where you have posted your project
+      username: "Vishal409",
+      reponame: "SummerHacks-ZCoders",
+    },
+
+   {
+      teamName: "Farid Ahmed",
+      //give the username and repository name where you have posted your project
+      username: "fareedahmed00",
+      reponame: "summerhacks-FaridAhmed",
+   },
+
+  {
+      teamName: "Amrit Nayak",
+      //give the username and repository name where you have posted your project
+      username: "AmritNayak",
+      reponame: "summerhacks-myPortfolioSite",
+  },
+
+   {
+      teamName: "Nishant's site",
+      //give the username and repository name where you have posted your project
+      username: "Nishant50",
+      reponame: "summerhacks-myPortfolio",
+  },
+
+   {
+      teamName: "PLAY_WITH_BITS",
+      //give the username and repository name where you have posted your project
+      username: "sambitraj",
+      reponame: "COLLEGE-WEB",
+  },
+  {
+      teamName: "ExcessiveMedia",
+      //give the username and repository name where you have posted your project
+      username: "sanskar85",
+      reponame: "summerhacks-excessiveMedia",
+
   },
 ];
 
