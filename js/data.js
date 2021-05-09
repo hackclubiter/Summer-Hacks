@@ -17,6 +17,12 @@ const projectData = [
       username: "git-sample-projects",
       reponame: "demo-project",
   },
+    {
+      teamName: "My  Team xyz",
+      //give the username and repository name where you have posted your project
+      username: "git-sample-projects",
+      reponame: "demo-project-porkr",
+  },
 ];
 
 //------------------------WARNING---------------------------//
